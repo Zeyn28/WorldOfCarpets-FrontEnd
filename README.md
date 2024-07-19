@@ -1,6 +1,6 @@
 # WorldOfCarpets-FrontEnd
 
-World of Carpets is a desktop application created with Flutter, which I did as part of my internship in the second year of computer engineering, containing an artificial intelligence model (YOLOv8) that detects carpets in images.
+World of Carpets is a desktop application that I did as part of my internship in the second year of computer engineering, using Flutter for the frontend, and containing an artificial intelligence model (YOLOv8) that detects carpets in images.
 
 ## Usage
 Once the application is running, you can:
